@@ -1,0 +1,9 @@
+phonenumbers==8.13.26
+Flask==3.0.0
+folium==0.15.1
+opencage==2.3.0
+python-dotenv==1.0.0
+Werkzeug==3.0.1
+Jinja2==3.1.2
+requests==2.31.0
+geopy==2.4.1
